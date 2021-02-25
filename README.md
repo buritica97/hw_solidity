@@ -10,10 +10,10 @@ The AssociateProfitSplitter contract will accept Ether into the contract and div
 
 Screen shots are included illustrating the following steps:
   1) Create a .sol file with the appropriate code for the contract. 
-  2) Compile Contract (Screen_Shot1) -- look for a green check mark
-  3) Deploy the Contract (Screen Shot2)
-  4) Deploy the Contract Again (Screen_Shot3 & Screen_Shot4) -- look for buttons underneath the contract tab
-  5) Verify Transaction using Ganache (Screen_Shot5 - Screen_Shot7) 
+  2) Compile Contract **(Screen_Shot1)** -- look for a green check mark
+  3) Deploy the Contract **(Screen Shot2)**
+  4) Deploy the Contract Again **(Screen_Shot3 & Screen_Shot4)** -- look for buttons underneath the contract tab
+  5) Verify Transaction using Ganache **(Screen_Shot5 - Screen_Shot7)**
 
 **Keep in Mind:** Make sure that Ganache is up and running before you attempt to interact with your contract.
 

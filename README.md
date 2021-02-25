@@ -1,7 +1,8 @@
 # hw_solidity
-Homework #20: Smart Contracts with Solidity
+**Homework #20: Smart Contracts with Solidity**
 
 **Localhost Testnet Address:** 0xc181355Da8a0430B671Fd2E4675A155528Cf0B4C
+
 **Kovan Testnet Address**: 0x67A60ddc087b66b0e9BcD04671fF0AdACFDe5315
 
 **Contract Motivation** 
